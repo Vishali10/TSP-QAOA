@@ -20,4 +20,14 @@ by sampling the outcome of the circuit in the Z-basis and adding the expectation
 8. Use the last θθ to generate a final set of samples from the distribution |⟨zi |ψ(θ)⟩|2∀i|⟨zi |ψ(θ)⟩|2∀i to obtain the answer.
 
 
+# OUTPUT
+Adjacency matrix and graph representation:
+![image](https://user-images.githubusercontent.com/35892971/144970727-c294dd2d-e6b4-476d-a4fc-869385d07ba0.png)
+
+Quantum Approach:
+![image](https://user-images.githubusercontent.com/35892971/144970780-8ab5f5ba-236a-4bbd-b8cb-451424ddbe76.png)
+
+Brute Force Approach:
+![image](https://user-images.githubusercontent.com/35892971/144970808-55f00135-ab66-4170-b2be-d64f7237d3ad.png)
+
 
